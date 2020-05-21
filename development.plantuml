@@ -1,0 +1,67 @@
+@startuml
+allowmixing
+!define ICONURL https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/v2.1.0
+skinparam defaultTextAlignment center
+!include ICONURL/common.puml
+!include ICONURL/font-awesome-5/gitlab.puml
+!include ICONURL/font-awesome-5/github.puml
+!include ICONURL/font-awesome-5/gitlab.puml
+!include ICONURL/font-awesome-5/wikipedia_w.puml
+!include ICONURL/font-awesome-5/home.puml
+!include ICONURL/font-awesome-5/bug.puml
+!include ICONURL/font-awesome-5/comments.puml
+!include ICONURL/font-awesome-5/code.puml
+!include ICONURL/font-awesome-5/whmcs.puml
+!include ICONURL/font-awesome-5/comment_dots.puml
+!include ICONURL/font-awesome-5/gitter.puml
+!include ICONURL/devicons/travis.puml
+
+FA5_HOME(website,[[https://www.freecadweb.org Website]],node) #White
+FA5_WIKIPEDIA_W(wiki,[[https://wiki.freecadweb.org Wiki]],node) #White
+FA5_COMMENTS(forum,[[https://forum.freecadweb.org Forum]],node) #White
+node "dev tools" {
+FA5_BUG(bugtracker,[[https://tracker.freecadweb.org Bugtracker]],node) #White
+FA5_GITHUB(github,[[https://github.com/freecad Github]],node) #White
+FA5_GITLAB(gitlab,[[https://gitlab.com/freecad Gitlab]],node) #White
+FA5_CODE(sourceforge,[[https://sourceforge.net/projects/free-cad/ Sourceforge]],node) #White
+DEV_TRAVIS(travis,[[https://travis-ci.org/FreeCAD/FreeCAD/branches Travis CI]],node) #White
+}
+node "live chats" {
+FA5_COMMENT_DOTS(irc,[[irc://irc.freenode.net/freecad IRC]],node) #White
+FA5_GITTER(gitter,[[https://gitter.im/FreeCAD/FreeCAD Gitter]],node) #White
+}
+
+FA5_WHMCS(freecad,[[https://github.com/FreeCAD/FreeCAD/releases FreeCAD]],node) #Red
+
+usecase "implementation idea"
+usecase "feature implementation"
+usecase "pull request"
+usecase problem
+usecase release
+
+freecad  --|> problem
+problem  --|> wiki #Black: research
+problem  --|> forum #Black: research
+problem  --|> "live chats" #Black: research
+problem --|> bugtracker: is bug
+bugtracker --|> "implementation idea" #Green: solve bug
+problem --|> "implementation idea" #Green: problem is not a bug
+
+sourceforge --> github: moved to
+github --> gitlab: mirror
+
+"implementation idea" <|--|> forum #Green: propose, discuss & improve idea
+forum <|--|> "feature implementation" #Green: discuss
+"implementation idea" --|> "feature implementation" #Green: accepted in forum
+"feature implementation" --|> "pull request" #Green: open
+"pull request" --|> github #Green: merge
+"pull request" --> travis #Green: trigger tests
+
+release --|> release: new every 3 - 6 months
+release --|> github: branch
+release --|> travis: [[https://github.com/FreeCAD/FreeCAD-AppImage build]]
+
+gitter --> irc: mirrors
+gitter <-- irc: mirrors
+
+@enduml
