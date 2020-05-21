@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1330px" preserveAspectRatio="none" style="width:1057px;height:1330px;" version="1.1" viewBox="0 0 1057 1330" width="1057px" zoomAndPan="magnify"><defs><filter height="300%" id="f3hsujk0naket" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[e323c964472840b8f126a52ba00183c8]
+cluster dev tools--><polygon fill="#FFFFFF" filter="url(#f3hsujk0naket)" points="585,812,595,802,1035,802,1035,1308,1025,1318,585,1318,585,812" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="1025" x2="1034" y1="812" y2="803"/><line style="stroke: #000000; stroke-width: 1.5;" x1="585" x2="1025" y1="812" y2="812"/><line style="stroke: #000000; stroke-width: 1.5;" x1="1025" x2="1025" y1="812" y2="1318"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="75" x="768.5" y="827.9951">dev tools</text><!--MD5=[4fb52cef2e7821cdf1384c318dac270e]
+cluster live chats--><polygon fill="#FFFFFF" filter="url(#f3hsujk0naket)" points="121,273,131,263,348,263,348,614,338,624,121,624,121,273" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="338" x2="347" y1="273" y2="264"/><line style="stroke: #000000; stroke-width: 1.5;" x1="121" x2="338" y1="273" y2="273"/><line style="stroke: #000000; stroke-width: 1.5;" x1="338" x2="338" y1="273" y2="624"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="79" x="191" y="288.9951">live chats</text><!--MD5=[30b6465c5fdb37ab1e23b35d871a1b19]
+entity bugtracker--><polygon fill="#FFFFFF" filter="url(#f3hsujk0naket)" points="899,876,909,866,1019,866,1019,950.2969,1009,960.2969,899,960.2969,899,876" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="1009" x2="1018" y1="876" y2="867"/><line style="stroke: #000000; stroke-width: 1.5;" x1="899" x2="1009" y1="876" y2="876"/><line style="stroke: #000000; stroke-width: 1.5;" x1="1009" x2="1009" y1="876" y2="960.2969"/><image height="48" width="48" x="930" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACUUlEQVR4Xt2YbZWDMBBFx0It1MJaqAUsYKEWaqEWsICFWsACFrLvJF12ePkO6bZn789AMpcwmRDEfBjCDe/mkNDj8bher5fL5csyDMP9fl/Xle+roVEIKvCQCOM4Nmu1CE3TxAoe5/N5WRbuWUC1UImN43Q6NcxTnRACcNgkSCweIkedENKWY+bAjPIoSSqEaqfHgdzngZJUCJVnD8EDJQncfbvd8FgoMNSOFg5VBi23eZ4HC2qHbnewkM4SLF29TDBDYxNaCJVTqbKr8YX03eI5HYRsxJZQuicjJP2cfBvgJwYLQZk79XAK2kjJKwPBTQpOUytYJTycBdnNsYNCJuLUl6CNiQmZFzvFbExCyLzMKWFj0kKxTDwCPgE4zJ5/J4QAWLqrpWRvebmQ3syxN/FljzohPOusCBZJolZIbFJvoAuV3KcQWvF1x10LaBDywavYBnkKlUxGkC5CovaQp1Db9Eg/ofmnOH3KDG2Z9JvUbXW5i9CkDgK7VQbNRRHbpTUNQjrEUvL5sfH+OkRMBceMPxUqCVArlD3LpoQAj+dRK+R/RBMZoezZuVbIz2IiI5TN6yqhbAKZtBCeBkPwqHuqhCR0ECOiQiU2Ui8kOaewUKGNNAlJ0ikgVG4jrUISd2KhmA2WK+LhuEjtWSH3syE4ZtCJhfyQsi8eWHf6noSQ/uESc9LbqoM3V+4RKWUIADNcwgasG/HQaPTDuKu+kz9JPEPUIWjTjO+kn8fBQnpD7WvjgNP2xoP7GgsZ++LwQZmt8UdwRw5utQSE3svHCX0DqCpLu++kMcgAAAAASUVORK5CYII=" y="886"/><a href="https://tracker.freecadweb.org" target="_top" title="https://tracker.freecadweb.org" xlink:actuate="onRequest" xlink:href="https://tracker.freecadweb.org" xlink:show="new" xlink:title="https://tracker.freecadweb.org" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="80" x="914" y="946.9951">Bugtracker</text></a><!--MD5=[608d1cc913e673ee5f798ece544755a2]
+entity github--><polygon fill="#FFFFFF" filter="url(#f3hsujk0naket)" points="601.5,1047,611.5,1037,690.5,1037,690.5,1121.2969,680.5,1131.2969,601.5,1131.2969,601.5,1047" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="680.5" x2="689.5" y1="1047" y2="1038"/><line style="stroke: #000000; stroke-width: 1.5;" x1="601.5" x2="680.5" y1="1047" y2="1047"/><line style="stroke: #000000; stroke-width: 1.5;" x1="680.5" x2="680.5" y1="1047" y2="1131.2969"/><image height="48" width="48" x="617" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACuklEQVR4Xu2Y25niMAyF0wIt0AIt0AIt0AIt0AIt0AIt0MK2QAvZs9bEcY4udkyYmYf9H/ggkeQTS5ZNhvGXMfCFn2YDQX8m+EYXPYLu9/v5fD4cDoMFruMubNitjRWCns/n6XTi8UNg/3g8OFBIkyCk43g88mjNYM7wMBzUoS7ocrnwCF0gjxzaIhL0er28Quljv99Xa98VBDXw55BbEFeVLehzaoSgpGxB22bKxMudIUhXMWYLF7tVYvGbMXngBAuCcPIE1+s1313ViuCI7Iuvfh6onAeeYEFmv6GU4yeiQxnGQ4Xip2wd+IIGjWEQBHezFEFP0mAlbiEIEdkjQaH7gHqOm7JJZgtBXjr0c3RgChrU0y4Ese1E3DkaQafmuIlcoMIsCOln24mPCqLlNgvyHMy10IfXbMuszYL0shSywftgpjl6oszAPB5bJbCAs8Em7HY7HmNZRl+CMGlsldgwX4LZ58qTyXcLMjtL2Y2+BJk7xtB8qmrHrFRDkDdDupO+ibnQjJT9+2bh7cnd8ACJsjBmQWb9DxvtG4LXe41VNjr1P2xaRmYBDV4fMo8HQnDibOd2u3HcidJs/uG1UeHN7SxQg2krLRfqyjJCBpGs8krH31AsXtSNlymBWt1CUJk12TSQLL3pynERD136ZiACcWBgrnBNdB6i9oiIsPb+0gevE0x7E71X8mZOseAg006PG/cn7yis0cuFBemWDR9cRIKkpABSFkyPQEFMzG2ABY3q8JtXgRQNPp+JhY/Ca7Ml5n8HQ9CommRHb6wK8ubYFjSqXRADQNZ1wguXiQUFpxpX0Ct831Cds0BQ7OsKGsP3Q3HQ0RdUdYwECWZTqcY1BXm9tKQuaEzbHA2wVpD0MzayaBIkoJbzMO2CkPRVO+AKQYK8pK6e2uQ1SNVMs1rQp/kvqMavE/QXscvgdRByg4YAAAAASUVORK5CYII=" y="1057"/><a href="https://github.com/freecad" target="_top" title="https://github.com/freecad" xlink:actuate="onRequest" xlink:href="https://github.com/freecad" xlink:show="new" xlink:title="https://github.com/freecad" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="49" x="616.5" y="1117.9951">Github</text></a><!--MD5=[670ed58fbcfa18955cb1914f9e6929f5]
+entity gitlab--><polygon fill="#FFFFFF" filter="url(#f3hsujk0naket)" points="602,1218,612,1208,690,1208,690,1292.2969,680,1302.2969,602,1302.2969,602,1218" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="680" x2="689" y1="1218" y2="1209"/><line style="stroke: #000000; stroke-width: 1.5;" x1="602" x2="680" y1="1218" y2="1218"/><line style="stroke: #000000; stroke-width: 1.5;" x1="680" x2="680" y1="1218" y2="1302.2969"/><image height="48" width="48" x="617" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAC0ElEQVR4Xu2Y7XHyMBCE1QIt0AIt0AIt0AIt0AIt0AIt0AIt0ILeG68R570PZJuZN5nJ8yuxpdPq9nRyUuoPo/CD/81vE/R4PPjROu73Oz+akgk6Ho+llOfzyS+WgoD5JjNBm81G5l8uF36xFAQ8n8/8QhEKut1uZWC32/G7RYhZPQFDQUgv+IprOmDiWigI6QVfcU0HTFzzBTW/wH6/5xEzaX6BxDVfkE4vWOna6XTqDOgL0ukFK13bbredAR1BlF6wxjUpYQ4XB3QE2fQCHtdNFNB1zVnGphdcr1ce2kcU0HWNBbl+gcPhQIN7cP0CrmssKEovoME9SMvhKArrGq8RpRcscE1aDkdR2IATQUl6wVzXFgScCJIqS24ZwCFTpAB4/hQ7YCJI/EqaOpBK5GVj8s8xXFDk2ltQS6/cG2oAI1mcrBkj7Z4nK6SccR+Qa29B+ji4HQJIoPeaKfnGdLHr5+9f6DgkxZQfnIY4wjNf0OWtXRsF2eMg9dQGEZ2u8bQXsjyN1K6N09z25XbS2ueaPc/A7hy0AeNPkQtRMUXjG7bjgajxNn9HQclhdo+um1ENTxiQtPG4F22Vcaa4EG1aDqe9caLMA9evZA/ah8lWopvVLaYo+cXzK/qIkN2SA5xb8dJ+vxbvEojUF+NX64GEJNLmnifXYb5bUtRXok3bdLrRouPiCAK22cguqVu6rtFKNpEyK+m6oaA65IBSTVevXaxMv7no77sS1LsmE1Q9+/QNZV3TftnSscVu+SAIkH3aFFpSv9J9JLdJ0yWoDsnQFdPOKl2TzS/9/KNNml5BoLXadvXqKmkVpq/PHps08wRVtVgrl+Ya/qfRmrjo67RJM1tQVfZBQXMHy+NV/nWWsEQQgH0iDq7BRDyca5NmuaA62IfjU4a7RRK2zCbNKkF1qBhxRxIjB97edwtYKwj0/EHXyXcEfZE/QZ/4cYL+ASxBrl3kCDM2AAAAAElFTkSuQmCC" y="1228"/><a href="https://gitlab.com/freecad" target="_top" title="https://gitlab.com/freecad" xlink:actuate="onRequest" xlink:href="https://gitlab.com/freecad" xlink:show="new" xlink:title="https://gitlab.com/freecad" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="44" x="619" y="1288.9951">Gitlab</text></a><!--MD5=[abdc82d6c6ee310050a8418b9cbcfb56]
+entity sourceforge--><polygon fill="#FFFFFF" filter="url(#f3hsujk0naket)" points="736,876,746,866,864,866,864,950.2969,854,960.2969,736,960.2969,736,876" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="854" x2="863" y1="876" y2="867"/><line style="stroke: #000000; stroke-width: 1.5;" x1="736" x2="854" y1="876" y2="876"/><line style="stroke: #000000; stroke-width: 1.5;" x1="854" x2="854" y1="876" y2="960.2969"/><image height="48" width="48" x="771" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACW0lEQVR4Xu2XUZXCMBBFY6EWsIAFLGABC1jAAhawgAUsYAEL2XcadnY6byZpQ/fsfvR+cUja3CTz0jblf0ayf/w1m1CLTajFmkKv1+t6vT6fT9uwhDWFTqdTGtntdvh9v99tjxmsKTQMQxESOlZrNSGMbWyA7TSDnmtcLpeLsTkcDrbTDFYTwvBGCAVuO81gNSFjk7oKKK8ldLvdjA2CZjvNoy2E9GIAxNg2KCTwwvl8llYsFQK43+/VFSENIT31ihMHXg6hYlP+hBMOz+mllpoQqnI6ymTewuPxMN3Sd+AxvHHFVtadQiGOcYHPX+55PB5LE5bENKXRqVLvvhBWwt5mBNPle/GoEvhF9yk4QlyhBXe18Y/tl5LuxvtegBP2Wt3pjRXCattLR6J65MBzmriPwAUwEeLTtiA1wfAEosLnJBagq3v+CEU2lbRnL/DuRuQx/9h007mgHzJvIZ5oAQmSrgwHHn62kwKbHjnJNN5CUelFpVPgEFU2N8fFpOPys2WRU+XY4MCbgtBU7q/nPCnqaAZuRJuB10RHCe+AjX15lLqYiPKMOfCFKC5ufyuUvVIVdBw4B5wAzJ63tRC9TzpCuXpsyDrZBu+NLLKp1L4vlKevDYI8g3hn3cBzDFPrYAuFsneUSWnzSNEwppzdc1xTE8rTo0wHjc+3SuCl2po2uSmURyfzGdrxCYY7VIw1jRu5cOCjyHTQI8TnCge+mx4hY5O8wHezWIgD3/0J5rJYiJ9KUeD7WCzE3xj8GvoJi4XyeBAgw1iYYcQ2f0aP0K+yCbXYhFpsQi2+ADEaT3LhnmuQAAAAAElFTkSuQmCC" y="886"/><a href="https://sourceforge.net/projects/free-cad/" target="_top" title="https://sourceforge.net/projects/free-cad/" xlink:actuate="onRequest" xlink:href="https://sourceforge.net/projects/free-cad/" xlink:show="new" xlink:title="https://sourceforge.net/projects/free-cad/" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="88" x="751" y="946.9951">Sourceforge</text></a><!--MD5=[709c5ba865fa7f52125105414a9cd73a]
+entity travis--><polygon fill="#FFFFFF" filter="url(#f3hsujk0naket)" points="601,876,611,866,701,866,701,950.2969,691,960.2969,601,960.2969,601,876" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="691" x2="700" y1="876" y2="867"/><line style="stroke: #000000; stroke-width: 1.5;" x1="601" x2="691" y1="876" y2="876"/><line style="stroke: #000000; stroke-width: 1.5;" x1="691" x2="691" y1="876" y2="960.2969"/><image height="48" width="48" x="622" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAABXklEQVR4Xu3WYZGDMBCGYSychbMQC1jAAlqwEAtYwMJZwMJZyG3Z6dd00w2UpIW57vujP0gWnulASxNOViMPHJ2B1pKgaZq+3l7XdQBIUN/3zREBYCAlADaBvqtGN428wFMg55zYU5j3Xlyi2Qf6KW6e51ALRD8H4viO+PH+eBDdtu4+OsJLrwLRrfB7H+2JV8U5MfsqEAnEVAqi/eM40mc8WxNEl+mu8U5epauGRyD+seFZer54cBiGUAuUxqtbQKJSEJ3aP4pX8yC6neWY9/RVYTMCYB2ULw/aHgAGUgLAQEoAGEgJAAMpAWAgJQD+Ecgt8RtPCqI/0WEpmsgFwH5QPJWCUDSR67Y/mr30LGhawlsz1bZt+h63GgBFIHqXlUej+ITyqBIABlICoAgUlpd/Ld4gx5QAKAWtJseUbvuj2UvbQXUDwEBKAJweRE9y//b4H5qToMMz0FqnA/0BFrV96o7y4dQAAAAASUVORK5CYII=" y="886"/><a href="https://travis-ci.org/FreeCAD/FreeCAD/branches" target="_top" title="https://travis-ci.org/FreeCAD/FreeCAD/branches" xlink:actuate="onRequest" xlink:href="https://travis-ci.org/FreeCAD/FreeCAD/branches" xlink:show="new" xlink:title="https://travis-ci.org/FreeCAD/FreeCAD/branches" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="60" x="616" y="946.9951">Travis CI</text></a><!--MD5=[ab58e12c59fb9c7d4a695999e2c9af61]
+entity irc--><polygon fill="#FFFFFF" filter="url(#f3hsujk0naket)" points="192,516,202,506,280,506,280,590.2969,270,600.2969,192,600.2969,192,516" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="270" x2="279" y1="516" y2="507"/><line style="stroke: #000000; stroke-width: 1.5;" x1="192" x2="270" y1="516" y2="516"/><line style="stroke: #000000; stroke-width: 1.5;" x1="270" x2="270" y1="516" y2="600.2969"/><image height="48" width="48" x="207" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACN0lEQVR4Xu2Y27WCMBBFaYEWbMEWaMEWbMEWaMEWaIEWbMEWaCGeRbjJcDJJREm4H+5PiZmdyeQBjflnNPzD0fyEcuwgNE3T8/mcZvjZdjYLIer9fr9er+fzuW3bJuB0OnVdd7vdxnHkP7/Bu0LWAxIcP8flcnk8HtxdnLwQVDBcjrMRjGQYBu5aIyPU9z33/QWYSlQbx1gTFUJi8H/ucg8w9RxMoAthHGrB7gXWBIf8QxFCDXIHBUCxc+AZFiqdG4maJxb6YGF/Q7j0VkLfL+8PoP3dC+EBt60CTZwXwgNuWwuZJC/ErSqC7ZeFcBByq4pgJbFQupzxB5zh/Ksg3QD7SOxq4GChxCnhzmo1i/BwFYAzgR/P55d9apJl6qIsQrHtR86u0RJJl56wH1rVsTy5fhahWMJp4wpzQPEoBwgvnxrN2OICZTKElPjOjMEBRA3IOByYvG8ktjrOUBjJ4W4L6t0IOXB9qSWCoVqn9H2Ga0gNVhOr4YXqXDliyJXo1WL1XwF5h/RCB86aczB0/TgkSbSQV0JYw9y8MNgmpIAhIZNc/yUI3yFZyMQ3yd1R34cUIexj/NcC0CnpUITCA2t31NxYFKGiU4aFHNaNhIWKbtm0wlVYqFB6cO5mPzNYVkLp6sH40O+mzRPDQ/Fu+rLmhRIv0ehXTjxa2o9oOBSxs7UCtMROZj+fbfJweCF1shAvfNstyiIU3q0w+soqlkUIMw0npBpz8dnHyr3gVXY4P6EcP6EcL2d8K/J9EwKVAAAAAElFTkSuQmCC" y="526"/><a href="irc://irc.freenode.net/freecad" target="_top" title="irc://irc.freenode.net/freecad" xlink:actuate="onRequest" xlink:href="irc://irc.freenode.net/freecad" xlink:show="new" xlink:title="irc://irc.freenode.net/freecad" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="24" x="219" y="586.9951">IRC</text></a><!--MD5=[a0207f19c80ac2db733515fd13eec14c]
+entity gitter--><polygon fill="#FFFFFF" filter="url(#f3hsujk0naket)" points="198,345,208,335,286,335,286,419.2969,276,429.2969,198,429.2969,198,345" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="276" x2="285" y1="345" y2="336"/><line style="stroke: #000000; stroke-width: 1.5;" x1="198" x2="276" y1="345" y2="345"/><line style="stroke: #000000; stroke-width: 1.5;" x1="276" x2="276" y1="345" y2="429.2969"/><image height="48" width="48" x="213" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAAyUlEQVR4Xu3WwQ3DIAyFYWbpLFmBFViBWbpCV2AFVmAFVkhRJVyHujiyiprD+06VI9z/aLdfjBsH/zYLujGllPHzGrMgx+Scx89rIEiDII0lqP2+dykl9mKneVNrpfnkycASFGOk+bZtNG8F7MXhSQiB5t57mn9CEILeEPSCoA5BErYcQSK2HEEithxBIrYcQSK2HEEidrAfLnZDUP7Jkf+NIeg8BGkQpEGQBkEaBGkQpEGQxhLU/unRDccNzZvKTqjzLEFLXS7oCaSg3qFD9iP+AAAAAElFTkSuQmCC" y="355"/><a href="https://gitter.im/FreeCAD/FreeCAD" target="_top" title="https://gitter.im/FreeCAD/FreeCAD" xlink:actuate="onRequest" xlink:href="https://gitter.im/FreeCAD/FreeCAD" xlink:show="new" xlink:title="https://gitter.im/FreeCAD/FreeCAD" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="44" x="215" y="415.9951">Gitter</text></a><!--MD5=[e9053c6dbb891ad4199c45de881c9d13]
+entity website--><polygon fill="#FFFFFF" filter="url(#f3hsujk0naket)" points="220,18,230,8,320,8,320,92.2969,310,102.2969,220,102.2969,220,18" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="310" x2="319" y1="18" y2="9"/><line style="stroke: #000000; stroke-width: 1.5;" x1="220" x2="310" y1="18" y2="18"/><line style="stroke: #000000; stroke-width: 1.5;" x1="310" x2="310" y1="18" y2="102.2969"/><image height="48" width="48" x="241" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAB6ElEQVR4Xu2YbZWDMBBFsVALtYCFWqgFLGABC1jAAhZqAQtYYN9peobhZcK0QLf7kfurBybJTWaSsFtMP4yCH3yaLOSRhTz+nNAwDJfL5XQ6nc/npmn49TSN44i3haKuaw5S7BLquk6PBMqyhIGOud1ucYwOILYLYaI0UgDrAQkJ+yYhpImGIbB4IfLtQigalAuNYRJq5b1Cfd9ThQaqqsIw/LQortcrmtDDw4TatqWui2XFQItf3wPoyTFC5mDIHTKow0xpYq8QtrGZDtS1xKCExSzOEbFLKFXC+nBDoYSHsrNSrQLbhVJzlYHjxdOiqaNhoxDuAe5pWcKpHYcFk07MwxOtqPI0tpBkQaOvhfXiRb4kMr5eApjPPJ6CheIsBNx5E3ot8cNcS/MyXgilWkplQDdVGSZYSGnozjMwC7lru753UuAAkyHcSphEyCxhfe6ldtwz6BPLTDfSIk4PodgdvUiQqfsSem5mKqTgHkL0Xeeu8zZ09vVw+vSaa0i+E9xK3IPsLOlcJ3SiXTbcCb/jb+Gj0OsRn0Z8Dgnxh9VRbLw6fqUQ0t8ueWY/vlHIvCPdXZmFstBMFvL430K4y7inCFPI/JNSs/3/Q1gkNK4SmF/E0/2G5lBFqpWwJvQRspBHFvLIQh5f4NmBO+72iaUAAAAASUVORK5CYII=" y="28"/><a href="https://www.freecadweb.org" target="_top" title="https://www.freecadweb.org" xlink:actuate="onRequest" xlink:href="https://www.freecadweb.org" xlink:show="new" xlink:title="https://www.freecadweb.org" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="60" x="235" y="88.9951">Website</text></a><!--MD5=[60e40abdec2fcbb77c415fabbc881ea5]
+entity wiki--><polygon fill="#FFFFFF" filter="url(#f3hsujk0naket)" points="6,345,16,335,94,335,94,419.2969,84,429.2969,6,429.2969,6,345" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="84" x2="93" y1="345" y2="336"/><line style="stroke: #000000; stroke-width: 1.5;" x1="6" x2="84" y1="345" y2="345"/><line style="stroke: #000000; stroke-width: 1.5;" x1="84" x2="84" y1="345" y2="429.2969"/><image height="48" width="48" x="21" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAChUlEQVR4Xu2XXXUCMRSEYwELWMACFrCABSxgAQtYwAIWagEL6RymuZ29SW6yDz3lYb8nmmSTydyf3ab8YSQ/8N9sgkZsgkZsgkZ8qqDX6/UVwmU68lpiO9qIW6w7/D5WsMd/BB0Oh9Rnt9vxmf1+7+cKl8sFC263Gxb7uZSwP2afz2dzFjwej4UggKF6NTbCLraGYEQvwMMUeGDSIVQNyMuD8MOkkEUO4UnngdvLwLitOR6PfrpYfr/f/cQbiOCz9W19UuNy6lNvR3A+n22Z041NUkcoQWSxADv4iVoQgAg7qQ6HwVOJ2/p0OqXW7Q3G4avUitIQlJc5HuzLg4mZNLSH8eotaAuyGAOc6qcLatL1euUgQxlcA1KSlJWjLSgvK7yX2rnsnt71kkuyDwONzf1EoSuIeUfYY5qol3gEK1P/9rn4h5V+otAVBOwk3r6HeckfgT3WLPyEEM3xuiS4k3qZwk6BPEuh3zkWpDkb3Bto6woSjsua1W5EgrLkbAoLh1cnPQPY3nrVbgwETda/du3USRH2tiDfSfthReu/6ba+10idcHA3hdVujAUN65/2qJf1wezptdCasaC8zFk3pS8KDZyGhhbGvcPwBzQJ6l/fo1qVmrx8vOluzZQgzRINBzNDz25WJQ0O2oEyJSgvX+wWDh6v7UA/XViVHAkq1DEriGYQWsKR+iTXJFntQQ9zzArKy48kpAv/rBuBNklaGHd5xwpBGg42p9qe3GpLwdutZoWgXP0bVNtDtP4nq91YJ0jD0fxEJ5pw9iU5yTpBGo6ePcQSbrLajXWCcglHYA9hwg2X1awWBGNQOzP3xrLYxSarBf01m6ARm6ARm6ARm6ARHyfoG94kCjqqdXqVAAAAAElFTkSuQmCC" y="355"/><a href="https://wiki.freecadweb.org" target="_top" title="https://wiki.freecadweb.org" xlink:actuate="onRequest" xlink:href="https://wiki.freecadweb.org" xlink:show="new" xlink:title="https://wiki.freecadweb.org" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="31" x="29.5" y="415.9951">Wiki</text></a><!--MD5=[883cac5f2d974eb542794a64abc30ea2]
+entity forum--><polygon fill="#FFFFFF" filter="url(#f3hsujk0naket)" points="374,516,384,506,462,506,462,590.2969,452,600.2969,374,600.2969,374,516" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="452" x2="461" y1="516" y2="507"/><line style="stroke: #000000; stroke-width: 1.5;" x1="374" x2="452" y1="516" y2="516"/><line style="stroke: #000000; stroke-width: 1.5;" x1="452" x2="452" y1="516" y2="600.2969"/><image height="48" width="48" x="389" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACH0lEQVR4Xu2Y8bGCMAyHWYEVXMEVXIEVXIEVXMEVXMEVXMEVXIH3HcUSUqFpLbz37vj+8DgKya9Jkxar7o9R6Ru/zS4oxi4oxv8UdL/f27Y9nU6Hw6Gu66qHi+Px2DTN9Xp9Pp/6nVyWBOEGHV7BMohDmTaRzmdBr9frfD5rnwZQf7vdtLkUPggiQcaozEEetVEzWhDz0+azIIOEWRm3MBFUSo0DTdK4kVEQE/oyUyHUhPBlYhREVWt7JXg8HsJdnEEQFa4tFSJ1gQ+CLpeLtlSOqccIw9Mr5cvhskYSLOkbBFER2kw5XKukvVV96S13zq0FOXA3t/1tl7KwySFxoqVnu0VNT9ID7+BJtiv7uVWhcjfWJG/qZ0vgS0wPvOGMNcrZbOtYnq08SE26liyE7/GbK0HSY1PkNrzWbu99EHiSoocD/FllIsjypgW5fxkbim8Bo6CPZZkKq1B2F6OaStT/IChcPZypyT2/xpWu9gTeTYq3jhBTwTEm3GeNt+vAOvFjyH8GuYcRgWJ0qNNqRrB9N0o7GyyDLDq+MaIS2YoKCCJ+BNW+XEKYhreWJohM47jp4WJuN0iCiEoXaYK6+S0pG7XnJwsyNjoj4Yk7WVDXayoYJ1WhOYIceR//ISpI+YK6vr5Si6vuUTdlR/1KkMP9axNdWEj3LZcLlfS1GiMlQ1NBHwnll2t8z3398Dyxcc+vIqgIu6AYu6AYu6AYP/5025EvvQO8AAAAAElFTkSuQmCC" y="526"/><a href="https://forum.freecadweb.org" target="_top" title="https://forum.freecadweb.org" xlink:actuate="onRequest" xlink:href="https://forum.freecadweb.org" xlink:show="new" xlink:title="https://forum.freecadweb.org" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="45" x="390.5" y="586.9951">Forum</text></a><!--MD5=[563c8bcbe2b1119428cf294084b94ecc]
+entity freecad--><polygon fill="#FF0000" filter="url(#f3hsujk0naket)" points="355.5,18,365.5,8,458.5,8,458.5,92.2969,448.5,102.2969,355.5,102.2969,355.5,18" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="448.5" x2="457.5" y1="18" y2="9"/><line style="stroke: #000000; stroke-width: 1.5;" x1="355.5" x2="448.5" y1="18" y2="18"/><line style="stroke: #000000; stroke-width: 1.5;" x1="448.5" x2="448.5" y1="18" y2="102.2969"/><image height="48" width="48" x="378" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAC6ElEQVR4Xs2YYdWzMAyFsYCFWpiFWZgFLMwCFmZhFmYBC7OABV5Ocpov3JsU2B++nOfHLoM0TdOGrVu67r8C9eWgvhzUl4P6B76Vmb7Sb8PrGajPso5ndq8Xp/phlOs3d/NucKjbfMSpv/JyAXUyXpEPb/n2Xq8v8mAvnz/k1oM641u9l+0shzqk2lQD6iQxZqVG07n8haDO8OZj0uGLDDPK7CFENna+GYgvhVjy1W6yKDb2W2JaLz5dJjIbxFufpAp1BtSKt5skhm2sBTfL4xzoQKOsoM6Y0dvGRsmNN5691bsa1KKB2oDdtERTNCtyv433omfNpxlHrKBWLB93mf368MP58qal8NrewA4N23o3eYqThFrJhmcrVF6FvHlgD9pZaqBetoltWKmn32e7mj059MBUua5RK7tnyUiPHKmPxYWe1RlqoxGTJgaY3WC8EIq2NrWsgaD2hDE96baFtnQnSwP38EkWTgy1Z0IPacHynZ0kbKhHFISrFs4NtYczxKVjvOoqQJNhm2UCz2jPr6DWHukbtTc+LZnsWbOpdr2w9jei3R86epgxD9rg/J6y3uInzKUWuwstKyDgLaumy6GnTi8XtZiGmiE13o8b0Q6ofeKF6GvJUMuRe/BOQIs8Ge4ItbAM22inC31q24H7USuzTI7LMzw52nAoTymvbG6oPW909e/3w0H4fNpdd9Se8D3wVJI4x7tTQm1MyRtZf+w0Wqh+zXire1ArnGpv2fu5h095b408oV4Ovw8NSWF+opViy2JCrfDWyEybwCgMySqHFnbWNCC/v3TI4yGG9tg6aew11Ib+DLVFObiOofnV+YpnPg8N1BntrtK2g01QQZ3Bh+QpO3hSrKDO4B9G2YtYib5qvNkBqDPA7BUdzPYOnEPZJmdQZ/h/C3z3gGT43xKWVH0fYp8hqBvMMm/YINAf4KjU3c6uGqA+i2/Ap3ZTBuofGCQTD0reb6C+HNSXg/pyUF8O6sv5A62kRrlZrtJvAAAAAElFTkSuQmCC" y="28"/><a href="https://github.com/FreeCAD/FreeCAD/releases" target="_top" title="https://github.com/FreeCAD/FreeCAD/releases" xlink:actuate="onRequest" xlink:href="https://github.com/FreeCAD/FreeCAD/releases" xlink:show="new" xlink:title="https://github.com/FreeCAD/FreeCAD/releases" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="63" x="370.5" y="88.9951">FreeCAD</text></a><ellipse cx="643.7915" cy="382.1583" fill="#FEFECE" filter="url(#f3hsujk0naket)" rx="88.7915" ry="20.1583" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="151" x="568.2915" y="386.8067">implementation idea</text><ellipse cx="418.0673" cy="717.2135" fill="#FEFECE" filter="url(#f3hsujk0naket)" rx="99.0673" ry="22.2135" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="174" x="331.0673" y="721.8619">feature implementation</text><ellipse cx="387.8742" cy="912.7748" fill="#FEFECE" filter="url(#f3hsujk0naket)" rx="61.8742" ry="14.7748" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="85" x="345.3742" y="917.4233">pull request</text><ellipse cx="406.8406" cy="177.5236" fill="#FEFECE" filter="url(#f3hsujk0naket)" rx="46.8406" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="62" x="375.8406" y="182.1721">problem</text><ellipse cx="592.7696" cy="717.0236" fill="#FEFECE" filter="url(#f3hsujk0naket)" rx="39.7696" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="52" x="566.7696" y="721.6721">release</text><!--MD5=[da86621e64086df038cb44d85c02abd6]
+link freecad to problem--><path d="M407,102.24 C407,115.6 407,129.92 407,142.4 " fill="none" id="freecad-&gt;problem" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="414,142.79,407,162.79,400,142.79,414,142.79" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[fa6757a5fd3e1a3e25f55a368f2f350d]
+link problem to wiki--><path d="M359.77,178.28 C279.25,178.93 120.28,185.01 81,222 C56.2282,245.33 47.9477,282.13 46.1032,314.45 " fill="none" id="problem-&gt;wiki" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="53.0942,314.99,45.712,334.853,39.0968,314.72,53.0942,314.99" style="stroke: #000000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="56" x="82" y="235.0669">research</text><!--MD5=[2ab13a5f7194e8959a1e51d9e7b71e24]
+link problem to forum--><path d="M407.405,192.24 C408.788,239.19 413.389,395.42 416.051,485.816 " fill="none" id="problem-&gt;forum" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="423.051,485.731,416.643,505.928,409.057,486.143,423.051,485.731" style="stroke: #000000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="56" x="415" y="386.5669">research</text><!--MD5=[c5cdb0b5058a038a199957bf5bd5b8a7]
+link problem to live chats--><path d="M363.907,183.29 C295.206,191.89 165.662,212.34 137,247 C118.2861,269.63 116.0556,302.445 118.616,329.937 C118.9361,333.3735 119.331,336.7268 119.778,339.9667 C120.0014,341.5866 120.2379,343.1782 120.4845,344.7376 C120.6079,345.5173 120.7337,346.289 120.8617,347.0522 C120.8937,347.2429 120.9259,347.4332 120.9582,347.6229 " fill="none" id="problem-&gt;live chats" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#FFFFFF" points="120.9582,347.6229,124.6725,327.7181,110.8708,330.066,120.9582,347.6229" style="stroke: #000000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="56" x="176" y="235.0669">research</text><!--MD5=[3237a679df15fcdfab271006d1c9f673]
+link problem to bugtracker--><path d="M451.69,182.02 C518.811,188.49 648.684,205.61 751,247 C852.941,288.24 959,271.03 959,381 C959,381 959,381 959,718 C959,760.43 959,808.079 959,845.536 " fill="none" id="problem-&gt;bugtracker" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="966,845.747,959,865.747,952,845.747,966,845.747" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="38" x="960" y="557.5669">is bug</text><!--MD5=[4e6a5dc03ee0df7e3eda8c76e8007a7b]
+link bugtracker to implementation idea--><path d="M942.503,865.889 C908.755,772.917 831.289,566.669 787,506 C759.839,468.793 719.348,435.336 688.379,412.743 " fill="none" id="bugtracker-&gt;implementation idea" style="stroke: #008000; stroke-width: 1.0;"/><polygon fill="none" points="684.141,418.319,671.859,401.052,692.228,406.892,684.141,418.319" style="stroke: #008000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="62" x="864" y="661.0669">solve bug</text><!--MD5=[8f7026b4d338a4fd217fdb1619b314d9]
+link problem to implementation idea--><path d="M422.186,191.48 C459.048,222.97 554.114,304.2 607.043,349.422 " fill="none" id="problem-&gt;implementation idea" style="stroke: #008000; stroke-width: 1.0;"/><polygon fill="none" points="611.654,344.155,622.312,362.469,602.56,354.799,611.654,344.155" style="stroke: #008000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="132" x="478" y="235.0669">problem is not a bug</text><!--MD5=[f4b37d8cd70f2c0e2d3c652331cbd0d2]
+link sourceforge to github--><path d="M757.919,960.18 C737.378,982.722 712.63,1009.88 691.635,1032.92 " fill="none" id="sourceforge-&gt;github" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="688.03,1036.876,697.049,1032.919,691.3982,1033.1807,691.1365,1027.5299,688.03,1036.876" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="62" x="728" y="1003.0669">moved to</text><!--MD5=[d308723ee028502584c19840914b3e62]
+link github to gitlab--><path d="M646,1131.18 C646,1153.349 646,1179.984 646,1202.774 " fill="none" id="github-&gt;gitlab" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="646,1207.876,650,1198.876,646,1202.876,642,1198.876,646,1207.876" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="39" x="647" y="1174.0669">mirror</text><!--MD5=[32db2298e78650c228748c1434e92ea4]
+link implementation idea to forum--><path d="M563.237,402.651 C528.699,414.355 489.976,432.291 462,459 C453.579,467.039 446.594,477.014 440.859,487.417 " fill="none" id="implementation idea-forum" style="stroke: #008000; stroke-width: 1.0;"/><polygon fill="none" points="447.067,490.66,432.104,505.664,434.445,484.604,447.067,490.66" style="stroke: #008000; stroke-width: 1.0;"/><polygon fill="none" points="561.258,395.936,582.436,396.617,565.455,409.292,561.258,395.936" style="stroke: #008000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="209" x="463" y="472.0669">propose, discuss &amp; improve idea</text><!--MD5=[17332e65af5c4bf37fa40de1d97a3183]
+link forum to feature implementation--><path d="M418,620.563 C418,638.81 418,658.068 418,674.469 " fill="none" id="forum-feature implementation" style="stroke: #008000; stroke-width: 1.0;"/><polygon fill="none" points="425,674.699,418,694.699,411,674.699,425,674.699" style="stroke: #008000; stroke-width: 1.0;"/><polygon fill="none" points="411,620.423,418,600.423,425,620.423,411,620.423" style="stroke: #008000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="47" x="419" y="661.0669">discuss</text><!--MD5=[6965e01453e474ddce67eef8de17683f]
+link implementation idea to feature implementation--><path d="M659.044,401.817 C672.291,420.812 687.909,450.853 677,476 C635.365,571.973 534.145,646.643 471.282,685.763 " fill="none" id="implementation idea-&gt;feature implementation" style="stroke: #008000; stroke-width: 1.0;"/><polygon fill="none" points="474.617,691.927,453.882,696.295,467.367,679.95,474.617,691.927" style="stroke: #008000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="117" x="661" y="557.5669">accepted in forum</text><!--MD5=[38519e0571bf2893a2b21ef54c5ba24d]
+link feature implementation to pull request--><path d="M410.851,739.126 C408.016,748.224 404.97,759.041 403,769 C395.738,805.713 391.837,848.469 389.851,877.6 " fill="none" id="feature implementation-&gt;pull request" style="stroke: #008000; stroke-width: 1.0;"/><polygon fill="none" points="396.833,878.122,388.642,897.664,382.858,877.279,396.833,878.122" style="stroke: #008000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="32" x="404" y="782.0669">open</text><!--MD5=[eb3e1c87411aa8b1838f14666e5d62bf]
+link pull request to github--><path d="M393.946,927.942 C403.175,948.041 422.76,985.136 450,1007 C488.436,1037.851 540.863,1057.302 581.823,1068.795 " fill="none" id="pull request-&gt;github" style="stroke: #008000; stroke-width: 1.0;"/><polygon fill="none" points="583.625,1062.031,601.189,1073.884,580.066,1075.571,583.625,1062.031" style="stroke: #008000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="42" x="451" y="1003.0669">merge</text><!--MD5=[d061a0228dd7e608d5f50ef15fa54618]
+link pull request to travis--><path d="M394.68,898.05 C406.859,872.891 435.32,822.891 477,803 C515.908,784.432 535.761,783.091 574,803 C597.939,815.464 615.975,839.154 628.55,861.367 " fill="none" id="pull request-&gt;travis" style="stroke: #008000; stroke-width: 1.0;"/><polygon fill="#008000" points="630.992,865.786,630.1391,855.9741,628.5733,861.41,623.1374,859.8441,630.992,865.786" style="stroke: #008000; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="78" x="487" y="782.0669">trigger tests</text><!--MD5=[1e67e9e22234df9ac760dba9888905f5]
+link release to release--><path d="M622.644,707.14 C645.166,703.577 668,706.863 668,717 C668,724.048 656.961,727.785 642.663,728.209 " fill="none" id="release-&gt;release" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="642.128,735.189,622.644,726.86,643.07,721.221,642.128,735.189" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="154" x="674" y="721.5669">new every 3 - 6 months</text><!--MD5=[ccd8ee5da38f9d6664f3293440b787fd]
+link release to github--><path d="M567.553,728.327 C537.159,740.916 489.786,761.447 485,769 C480.956,775.382 483.887,778.527 485,786 C496.908,865.959 498.668,889.372 538,960 C551.211,983.723 569.606,1006.873 587.475,1026.573 " fill="none" id="release-&gt;github" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="592.668,1021.876,601.262,1041.245,582.465,1031.463,592.668,1021.876" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="44" x="539" y="917.5669">branch</text><!--MD5=[31e8887aa1f6b5a7b4540221fd97fde1]
+link release to travis--><path d="M597.078,731.642 C604.141,755.265 619.079,805.229 631.445,846.591 " fill="none" id="release-&gt;travis" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="638.152,844.587,637.174,865.754,624.738,848.597,638.152,844.587" style="stroke: #A80036; stroke-width: 1.0;"/><a href="https://github.com/FreeCAD/FreeCAD-AppImage" target="_top" title="https://github.com/FreeCAD/FreeCAD-AppImage" xlink:actuate="onRequest" xlink:href="https://github.com/FreeCAD/FreeCAD-AppImage" xlink:show="new" xlink:title="https://github.com/FreeCAD/FreeCAD-AppImage" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" text-decoration="underline" textLength="30" x="612" y="782.0669">build</text></a><!--MD5=[6bac751100017f3d4b9ded44dd5d082d]
+link gitter to irc--><path d="M200.101,429.385 C193.898,438.62 188.442,448.673 185,459 C180.239,473.283 183.721,487.928 190.666,501.247 " fill="none" id="gitter-&gt;irc" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="193.147,505.711,192.2715,495.9011,190.7182,501.3406,185.2788,499.7872,193.147,505.711" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="46" x="186" y="472.0669">mirrors</text><!--MD5=[08b8b1ae4762adb87497b487239b6487]
+reverse link gitter to irc--><path d="M240.179,434.283 C239.37,457.08 238.424,483.714 237.638,505.876 " fill="none" id="gitter&lt;-irc" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="240.36,429.18,236.0437,438.0326,240.1829,434.1769,244.0386,438.3161,240.36,429.18" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="46" x="241" y="472.0669">mirrors</text><!--MD5=[69c2f89c103b1366c8c1033cc4c26f36]
+@startuml
+allowmixing
+!define ICONURL https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/v2.1.0
+skinparam defaultTextAlignment center
+!include ICONURL/common.puml
+!include ICONURL/font-awesome-5/gitlab.puml
+!include ICONURL/font-awesome-5/github.puml
+!include ICONURL/font-awesome-5/gitlab.puml
+!include ICONURL/font-awesome-5/wikipedia_w.puml
+!include ICONURL/font-awesome-5/home.puml
+!include ICONURL/font-awesome-5/bug.puml
+!include ICONURL/font-awesome-5/comments.puml
+!include ICONURL/font-awesome-5/code.puml
+!include ICONURL/font-awesome-5/whmcs.puml
+!include ICONURL/font-awesome-5/comment_dots.puml
+!include ICONURL/font-awesome-5/gitter.puml
+!include ICONURL/devicons/travis.puml
+
+FA5_HOME(website,[[https://www.freecadweb.org Website]],node) #White
+FA5_WIKIPEDIA_W(wiki,[[https://wiki.freecadweb.org Wiki]],node) #White
+FA5_COMMENTS(forum,[[https://forum.freecadweb.org Forum]],node) #White
+node "dev tools" {
+FA5_BUG(bugtracker,[[https://tracker.freecadweb.org Bugtracker]],node) #White
+FA5_GITHUB(github,[[https://github.com/freecad Github]],node) #White
+FA5_GITLAB(gitlab,[[https://gitlab.com/freecad Gitlab]],node) #White
+FA5_CODE(sourceforge,[[https://sourceforge.net/projects/free-cad/ Sourceforge]],node) #White
+DEV_TRAVIS(travis,[[https://travis-ci.org/FreeCAD/FreeCAD/branches Travis CI]],node) #White
+}
+node "live chats" {
+FA5_COMMENT_DOTS(irc,[[irc://irc.freenode.net/freecad IRC]],node) #White
+FA5_GITTER(gitter,[[https://gitter.im/FreeCAD/FreeCAD Gitter]],node) #White
+}
+
+FA5_WHMCS(freecad,[[https://github.com/FreeCAD/FreeCAD/releases FreeCAD]],node) #Red
+
+usecase "implementation idea"
+usecase "feature implementation"
+usecase "pull request"
+usecase problem
+usecase release
+
+freecad  - -|> problem
+problem  - -|> wiki #Black: research
+problem  - -|> forum #Black: research
+problem  - -|> "live chats" #Black: research
+problem - -|> bugtracker: is bug
+bugtracker - -|> "implementation idea" #Green: solve bug
+problem - -|> "implementation idea" #Green: problem is not a bug
+
+sourceforge - -> github: moved to
+github - -> gitlab: mirror
+
+"implementation idea" <|- -|> forum #Green: propose, discuss & improve idea
+forum <|- -|> "feature implementation" #Green: discuss
+"implementation idea" - -|> "feature implementation" #Green: accepted in forum
+"feature implementation" - -|> "pull request" #Green: open
+"pull request" - -|> github #Green: merge
+"pull request" - -> travis #Green: trigger tests
+
+release - -|> release: new every 3 - 6 months
+release - -|> github: branch
+release - -|> travis: [[https://github.com/FreeCAD/FreeCAD-AppImage build]]
+
+gitter - -> irc: mirrors
+gitter <- - irc: mirrors
+@enduml
+
+@startuml
+allowmixing
+skinparam defaultTextAlignment center
+
+
+hide stereotype
+sprite $gitlab [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000020000000000000000000000000030000000000
+0000000009F10000000000000000000000009F2000000000
+000000000EF6000000000000000000000000EF7000000000
+000000004FFC000000000000000000000003FFC000000000
+000000009FFF100000000000000000000009FFF200000000
+00000000EFFF60000000000000000000000EFFF700000000
+00000004FFFFB0000000000000000000003FFFFC00000000
+00000009FFFFF1000000000000000000008FFFFF10000000
+0000000EFFFFF600000000000000000000DFFFFF60000000
+0000003FFFFFFB00000000000000000002FFFFFFB0000000
+0000008FFFFFFF00000000000000000008FFFFFFF1000000
+000000DFFFFFFF5000000000000000000DFFFFFFF6000000
+000003FFFFFFFFA000000000000000002FFFFFFFFB000000
+000008FFFFFFFFF000000000000000007FFFFFFFFF100000
+00000DFFFFFFFFF50000000000000000CFFFFFFFFF500000
+00002FFFFFFFFFFA0000000000000002FFFFFFFFFFA00000
+0000620000000000FFFFFFFFFFFFFFF80000000000800000
+0000DC0000000000BFFFFFFFFFFFFFF30000000004F50000
+0002FF90000000006FFFFFFFFFFFFFE0000000001EFA0000
+0007FFF6000000001FFFFFFFFFFFFF9000000000CFFF0000
+000CFFFF200000000CFFFFFFFFFFFF4000000009FFFF5000
+002FFFFFD000000006FFFFFFFFFFFF000000005FFFFFA000
+007FFFFFFB00000001FFFFFFFFFFFA00000002FFFFFFF000
+00CFFFFFFF60000000CFFFFFFFFFF50000000DFFFFFFF400
+00BFFFFFFFF30000007FFFFFFFFFF0000000AFFFFFFFF300
+001CFFFFFFFE1000002FFFFFFFFFA0000007FFFFFFFF6000
+00008FFFFFFFB000000DFFFFFFFF5000003FFFFFFFE30000
+000004EFFFFFF8000008FFFFFFFF000001EFFFFFFA100000
+0000001BFFFFFF400003FFFFFFFB00000BFFFFFF60000000
+000000006FFFFFE20000DFFFFFF600008FFFFFD200000000
+0000000003EFFFFC00008FFFFFF10004FFFFFA0000000000
+00000000001BFFFF90003FFFFFB0001EFFFF500000000000
+0000000000006FFFF6000EFFFF6000CFFFD2000000000000
+00000000000003DFFF3009FFFF1009FFFA00000000000000
+000000000000000AFFD004FFFC005FFF5000000000000000
+00000000000000005FFB00EFF702FFC20000000000000000
+000000000000000003DF709FF20DF9000000000000000000
+0000000000000000000AF34FD0AF50000000000000000000
+000000000000000000005D2F87C200000000000000000000
+00000000000000000000029A680000000000000000000000
+000000000000000000000006200000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<FA5 GITLAB>> White
+sprite $github [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000022200000000000000000000000
+0000000000000000059CFFFFFFFC95000000000000000000
+000000000000003AFFFFFFFFFFFFFFFA4000000000000000
+0000000000002BFFFFFFFFFFFFFFFFFFFC30000000000000
+000000000008FFFFFFFFFFFFFFFFFFFFFFF9000000000000
+0000000001CFFFFFFFFFFFFFFFFFFFFFFFFFD20000000000
+000000001DFFFFFFFFFFFFFFFFFFFFFFFFFFFF4000000000
+00000001DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF300000000
+0000000CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF20000000
+0000008FFFFFD8CFFFFFFFFFFFFFFFFFFA8FFFFFD0000000
+000002FFFFFF7002AFFFFFFFFFFFFFF7100CFFFFF8000000
+00000BFFFFFF300003CA74322358BA100008FFFFFF200000
+00003FFFFFFF100000000000000000000007FFFFFFA00000
+0000AFFFFFFF200000000000000000000007FFFFFFF10000
+0000FFFFFFFF400000000000000000000009FFFFFFF70000
+0005FFFFFFFF400000000000000000000009FFFFFFFD0000
+0009FFFFFFF8000000000000000000000000DFFFFFFF1000
+000CFFFFFFF00000000000000000000000004FFFFFFF4000
+000FFFFFFFB00000000000000000000000000EFFFFFF7000
+001FFFFFFF800000000000000000000000000BFFFFFF9000
+001FFFFFFF800000000000000000000000000AFFFFFFA000
+002FFFFFFF900000000000000000000000000CFFFFFFA000
+001FFFFFFFA00000000000000000000000000DFFFFFF9000
+000FFFFFFFD00000000000000000000000000FFFFFFF8000
+000EFFFFFFF20000000000000000000000005FFFFFFF7000
+000BFFFFFFF9000000000000000000000000CFFFFFFF4000
+0008FFFFFFFF300000000000000000000006FFFFFFFF0000
+0004FFFFFFFFF4000000000000000000006FFFFFFFFC0000
+0000EFFFB9EFFFA400000000000000015CFFFFFFFFF80000
+00008FFFB039FFFFFCA6000000018ADFFFFFFFFFFFF10000
+00002FFFFD13AFFFFFF500000000AFFFFFFFFFFFFFB00000
+00000AFFFFB15DFFFFD0000000003FFFFFFFFFFFFF300000
+000001FFFFF3169EEC50000000000FFFFFFFFFFFFA000000
+0000007FFFFC00606330000000000EFFFFFFFFFFF1000000
+0000000BFFFF90000000000000000EFFFFFFFFFF50000000
+00000000DFFFFE977750000000000EFFFFFFFFF800000000
+000000001DFFFFFFFF90000000000EFFFFFFFF9000000000
+0000000001CFFFFFFF90000000000EFFFFFFF90000000000
+00000000000AFFFFFF90000000000EFFFFFF600000000000
+0000000000004EFFFF90000000000EFFFFB1000000000000
+000000000000007EFF90000000000EFFC400000000000000
+000000000000000059200000000005820000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<FA5 GITHUB>> White
+sprite $gitlab [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000020000000000000000000000000030000000000
+0000000009F10000000000000000000000009F2000000000
+000000000EF6000000000000000000000000EF7000000000
+000000004FFC000000000000000000000003FFC000000000
+000000009FFF100000000000000000000009FFF200000000
+00000000EFFF60000000000000000000000EFFF700000000
+00000004FFFFB0000000000000000000003FFFFC00000000
+00000009FFFFF1000000000000000000008FFFFF10000000
+0000000EFFFFF600000000000000000000DFFFFF60000000
+0000003FFFFFFB00000000000000000002FFFFFFB0000000
+0000008FFFFFFF00000000000000000008FFFFFFF1000000
+000000DFFFFFFF5000000000000000000DFFFFFFF6000000
+000003FFFFFFFFA000000000000000002FFFFFFFFB000000
+000008FFFFFFFFF000000000000000007FFFFFFFFF100000
+00000DFFFFFFFFF50000000000000000CFFFFFFFFF500000
+00002FFFFFFFFFFA0000000000000002FFFFFFFFFFA00000
+0000620000000000FFFFFFFFFFFFFFF80000000000800000
+0000DC0000000000BFFFFFFFFFFFFFF30000000004F50000
+0002FF90000000006FFFFFFFFFFFFFE0000000001EFA0000
+0007FFF6000000001FFFFFFFFFFFFF9000000000CFFF0000
+000CFFFF200000000CFFFFFFFFFFFF4000000009FFFF5000
+002FFFFFD000000006FFFFFFFFFFFF000000005FFFFFA000
+007FFFFFFB00000001FFFFFFFFFFFA00000002FFFFFFF000
+00CFFFFFFF60000000CFFFFFFFFFF50000000DFFFFFFF400
+00BFFFFFFFF30000007FFFFFFFFFF0000000AFFFFFFFF300
+001CFFFFFFFE1000002FFFFFFFFFA0000007FFFFFFFF6000
+00008FFFFFFFB000000DFFFFFFFF5000003FFFFFFFE30000
+000004EFFFFFF8000008FFFFFFFF000001EFFFFFFA100000
+0000001BFFFFFF400003FFFFFFFB00000BFFFFFF60000000
+000000006FFFFFE20000DFFFFFF600008FFFFFD200000000
+0000000003EFFFFC00008FFFFFF10004FFFFFA0000000000
+00000000001BFFFF90003FFFFFB0001EFFFF500000000000
+0000000000006FFFF6000EFFFF6000CFFFD2000000000000
+00000000000003DFFF3009FFFF1009FFFA00000000000000
+000000000000000AFFD004FFFC005FFF5000000000000000
+00000000000000005FFB00EFF702FFC20000000000000000
+000000000000000003DF709FF20DF9000000000000000000
+0000000000000000000AF34FD0AF50000000000000000000
+000000000000000000005D2F87C200000000000000000000
+00000000000000000000029A680000000000000000000000
+000000000000000000000006200000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<FA5 GITLAB>> White
+sprite $wikipedia_w [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+001222222222200222211111000111222210022111111000
+00CFFFFFFFFFE10DFFFFFFFF806EFFFFFFC03EFFFFFFF400
+0004EFFFFFC3000003CFFFC000002DFF8100004EFFE40000
+00001DFFFF100000001FFFB000000CF500000004FF300000
+000002EFFF5000000009FFF100002FB000000006F9000000
+0000005FFFC000000002FFF90000AF300000000DF2000000
+0000000CFFF300000000AFFF1002FB000000004FB0000000
+00000004FFFA000000002FFF7009F300000000BF40000000
+00000000DFFF100000000BFFE01FC000000002FD00000000
+000000006FFF8000000004FFF68F4000000009F600000000
+000000000FFFE000000000DFFDFC000000001FF000000000
+0000000008FFF6000000006FFFF5000000007F8000000000
+0000000002FFFC000000000EFFF100000000EF2000000000
+0000000000BFFF3000000007FFF800000005FB0000000000
+00000000004FFFA000000009FFFF0000000CF40000000000
+00000000000DFFF20000001FFFFF6000003FD00000000000
+000000000006FFF80000009F4FFFD00000AF600000000000
+000000000000EFFF000002FB09FFF40001FE000000000000
+0000000000008FFF60000AF302FFFB0008F8000000000000
+0000000000001FFFD0003FB000BFFF300EF1000000000000
+0000000000000AFFF400BF30005FFFA05FA0000000000000
+00000000000003FFFB03FA00000EFFF1CF30000000000000
+00000000000000CFFF2CF2000007FFFBFC00000000000000
+000000000000005FFFDFA0000001FFFFF500000000000000
+000000000000000DFFFF200000009FFFE000000000000000
+0000000000000007FFF9000000003FFF7000000000000000
+0000000000000001FFF2000000000CFF1000000000000000
+00000000000000009F900000000005F90000000000000000
+00000000000000002B100000000000B20000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<FA5 WIKIPEDIA_W>> White
+sprite $home [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+0000000000000000000002BED70000001EFFFF8000000000
+000000000000000000005FFFFFC100003FFFFFC000000000
+00000000000000000008FFFFFFFE30003FFFFFC000000000
+000000000000000000BFFFFFFFFFF5003FFFFFC000000000
+00000000000000002DFFFFFFFFFFFF803FFFFFC000000000
+0000000000000004EFFFFFF9CFFFFFFA4FFFFFC000000000
+000000000000006FFFFFFE3009FFFFFFEFFFFFC000000000
+00000000000009FFFFFFD200006FFFFFFFFFFFC000000000
+000000000001CFFFFFFB00052004FFFFFFFFFFC000000000
+00000000002DFFFFFF8000AFF5002DFFFFFFFFC000000000
+0000000004FFFFFFF5001CFFFF8000BFFFFFFFC000000000
+000000007FFFFFFE3004EFFFFFFA0008FFFFFFE200000000
+0000000AFFFFFFC1006FFFFFFFFFD1005FFFFFFF40000000
+000001CFFFFFFA0008FFFFFFFFFFFE3003EFFFFFF7000000
+00003EFFFFFF8001BFFFFFFFFFFFFFF6001CFFFFFFA00000
+0005FFFFFFF4002DFFFFFFFFFFFFFFFF9000AFFFFFFC1000
+007FFFFFFD2004FFFFFFFFFFFFFFFFFFFB0008FFFFFFE100
+00AFFFFFB1007FFFFFFFFFFFFFFFFFFFFFD2005FFFFFF300
+001EFFF9000AFFFFFFFFFFFFFFFFFFFFFFFF4002EFFF8000
+0003FF6001CFFFFFFFFFFFFFFFFFFFFFFFFFF7001CFB0000
+000022001EFFFFFFFFFFFFFFFFFFFFFFFFFFFF8000400000
+000000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFC000000000
+000000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFC000000000
+000000003FFFFFFFFFFFB666667FFFFFFFFFFFC000000000
+000000003FFFFFFFFFFF2000000AFFFFFFFFFFC000000000
+000000003FFFFFFFFFFF2000000AFFFFFFFFFFC000000000
+000000003FFFFFFFFFFF2000000AFFFFFFFFFFC000000000
+000000003FFFFFFFFFFF2000000AFFFFFFFFFFC000000000
+000000003FFFFFFFFFFF2000000AFFFFFFFFFFC000000000
+000000003FFFFFFFFFFF2000000AFFFFFFFFFFC000000000
+000000003FFFFFFFFFFF2000000AFFFFFFFFFFC000000000
+000000003FFFFFFFFFFF2000000AFFFFFFFFFFC000000000
+000000001FFFFFFFFFFF20000009FFFFFFFFFF8000000000
+000000000389999999970000000299999999970000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<FA5 HOME>> White
+sprite $bug [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+0000000000000000000038BCCA6100000000000000000000
+0000000000000000003BFFFFFFFF91000000000000000000
+000000000000000005FFFFFFFFFFFD200000000000000000
+00000000000000005FFFFFFFFFFFFFE10000000000000000
+0000000000000001FFFFFFFFFFFFFFFC0000000000000000
+000000000000000AFFFFFFFFFFFFFFFF5000000000000000
+000000000000001FFFFFFFFFFFFFFFFFB000000000000000
+000000000000005FFFFFFFFFFFFFFFFFF000000000000000
+0000007B8000008FFFFFFFFFFFFFFFFFF200004AA3000000
+00000AFFFD1000599999999999999999920006FFFF200000
+00000FFFFFD10000000000000000000000006FFFFF900000
+00000FFFFFFD100000000000000000000006FFFFFF800000
+000009FFFFFFD1000000000000000000006FFFFFFF200000
+000000BFFFFFFD55555555555555555557FFFFFFF4000000
+0000000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF40000000
+00000000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF400000000
+000000000BFFFFFFFFFFFFFFFFFFFFFFFFFFFF4000000000
+0000000006FFFFFFFFFFFFFFFFFFFFFFFFFFFE0000000000
+0000000006FFFFFFFFFFFFFFFFFFFFFFFFFFFE0000000000
+0000000006FFFFFFFFFFFE2118FFFFFFFFFFFE0000000000
+0000000006FFFFFFFFFFFB0003FFFFFFFFFFFE0000000000
+0000244449FFFFFFFFFFFB0003FFFFFFFFFFFF4444310000
+001CFFFFFFFFFFFFFFFFFB0003FFFFFFFFFFFFFFFFFF6000
+009FFFFFFFFFFFFFFFFFFB0003FFFFFFFFFFFFFFFFFFF200
+00CFFFFFFFFFFFFFFFFFFB0003FFFFFFFFFFFFFFFFFFF400
+009FFFFFFFFFFFFFFFFFFB0003FFFFFFFFFFFFFFFFFFF100
+000BFFFFFFFFFFFFFFFFFB0003FFFFFFFFFFFFFFFFFF5000
+0000122227FFFFFFFFFFFB0003FFFFFFFFFFFF2222200000
+0000000006FFFFFFFFFFFB0003FFFFFFFFFFFE0000000000
+0000000005FFFFFFFFFFFB0003FFFFFFFFFFFE0000000000
+0000000003FFFFFFFFFFFB0003FFFFFFFFFFFC0000000000
+0000000000FFFFFFFFFFFB0003FFFFFFFFFFF80000000000
+0000000000AFFFFFFFFFFB0003FFFFFFFFFFF20000000000
+00000000006FFFFFFFFFFB0003FFFFFFFFFFE00000000000
+0000000002EFFFFFFFFFFB0003FFFFFFFFFFF90000000000
+000000002EFFFFFFFFFFFB0003FFFFFFFFFFFF9000000000
+00000002EFFFFFFFFFFFFB0003FFFFFFFFFFFFF900000000
+0000002EFFFFFFFFFFFFFB0003FFFFFFFFFFFFFF90000000
+000002EFFFFFF83DFFFFFB0003FFFFFF92EFFFFFF9000000
+00000DFFFFFF80006DFFFB0003FFFFA3002EFFFFFF500000
+00001FFFFFF8000000268700029850000002EFFFFF900000
+00000FFFFF800000000000000000000000002EFFFF700000
+000005FFF80000000000000000000000000002DFFC000000
+000000142000000000000000000000000000000440000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<FA5 BUG>> White
+sprite $comments [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+00000000000048BDEFFECA62000000000000000000000000
+00000000028EFFFFFFFFFFFFC60000000000000000000000
+000000019FFFFFFFFFFFFFFFFFE500000000000000000000
+0000004EFFFFFFFFFFFFFFFFFFFFA0000000000000000000
+000005FFFFFFFFFFFFFFFFFFFFFFFC100000000000000000
+00005FFFFFFFFFFFFFFFFFFFFFFFFFC00000000000000000
+0001EFFFFFFFFFFFFFFFFFFFFFFFFFF80000000000000000
+000BFFFFFFFFFFFFFFFFFFFFFFFFFFFF3000000000000000
+002FFFFFFFFFFFFFFFFFFFFFFFFFFFFFA000000000000000
+007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000000
+00BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF302300000000000
+00CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF504FC5000000000
+00CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF504FFFC20000000
+00BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF305FFFFF4000000
+007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF008FFFFFF500000
+002FFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00CFFFFFFF20000
+000AFFFFFFFFFFFFFFFFFFFFFFFFFFFF302FFFFFFFFD0000
+0001EFFFFFFFFFFFFFFFFFFFFFFFFFF800AFFFFFFFFF6000
+00004FFFFFFFFFFFFFFFFFFFFFFFFFC003FFFFFFFFFFC000
+00005FFFFFFFFFFFFFFFFFFFFFFFFC001DFFFFFFFFFFF100
+0000DFFFFFFFFFFFFFFFFFFFFFFFA000BFFFFFFFFFFFF400
+0008FFFFFFFFFFFFFFFFFFFFFFE4000BFFFFFFFFFFFFF500
+004FFFFF939EFFFFFFFFFFFFC50003DFFFFFFFFFFFFFF400
+00BEDA60000038ADEFEDC95100008FFFFFFFFFFFFFFFF200
+000000000000000000000000017EFFFFFFFFFFFFFFFFD000
+000000000000000000000036BFFFFFFFFFFFFFFFFFFF7000
+0000000000000004BAABCFFFFFFFFFFFFFFFFFFFFFFE0000
+0000000000000000CFFFFFFFFFFFFFFFFFFFFFFFFFF40000
+00000000000000001DFFFFFFFFFFFFFFFFFFFFFFFFA00000
+000000000000000001CFFFFFFFFFFFFFFFFFFFFFFFF10000
+00000000000000000009FFFFFFFFFFFFFFFFFFFFFFFA0000
+000000000000000000003BFFFFFFFFFFFFFFFEEFFFFF5000
+000000000000000000000028DFFFFFFFFFFB6006CFFFF200
+000000000000000000000000014789876300000001578200
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<FA5 COMMENTS>> White
+sprite $code [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000016200000000000000000000
+00000000000000000000000009FFD9400000000000000000
+0000000000000000000000000EFFFFF20000000000000000
+0000000000000000000000002FFFFFF00000000000000000
+0000000000000000000000007FFFFFB00000000000000000
+000000000000000000000000BFFFFF600000000000000000
+000000000000000000000000FFFFFF200000000000000000
+000000000000000000000005FFFFFD000000000000000000
+000000000004F90000000009FFFFF80002EC000000000000
+00000000005FFF900000000EFFFFF4002EFFC10000000000
+0000000006FFFFF80000003FFFFFF001EFFFFD1000000000
+000000007FFFFFFF4000007FFFFFA00CFFFFFFD200000000
+00000008FFFFFFFE200000CFFFFF6008FFFFFFFE20000000
+0000009FFFFFFFD1000001FFFFFF10006FFFFFFFE3000000
+00000AFFFFFFFC10000005FFFFFC000005FFFFFFFF400000
+0000BFFFFFFFA00000000AFFFFF80000003EFFFFFFF50000
+000BFFFFFFF9000000000EFFFFF300000002DFFFFFFF6000
+00AFFFFFFF70000000003FFFFFE0000000001DFFFFFFF300
+006FFFFFFFC1000000008FFFFFA0000000005FFFFFFFD100
+0006FFFFFFFD20000000CFFFFF5000000006FFFFFFFD1000
+00005FFFFFFFE3000001FFFFFF100000009FFFFFFFC10000
+000004FFFFFFFF400006FFFFFC0000000BFFFFFFFC000000
+0000003FFFFFFFF6000AFFFFF7000001CFFFFFFFB0000000
+00000003EFFFFFFF400FFFFFF200000CFFFFFFFA00000000
+000000002EFFFFFE204FFFFFE0000008FFFFFF9000000000
+0000000002DFFFF3008FFFFF900000009FFFF80000000000
+00000000001DFF3000DFFFFF500000000AFF800000000000
+000000000001940002FFFFFF000000000095000000000000
+000000000000000006FFFFFB000000000000000000000000
+00000000000000000BFFFFF7000000000000000000000000
+00000000000000000FFFFFF2000000000000000000000000
+00000000000000004FFFFFD0000000000000000000000000
+00000000000000009FFFFF90000000000000000000000000
+00000000000000007FFFFF40000000000000000000000000
+00000000000000000159EE00000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<FA5 CODE>> White
+sprite $whmcs [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000022210000002100000000000000
+0000000000000000000002FFFB003007FC00210000000000
+0000000000000004200006FFFF1DF50BFF02EF4000000000
+00000000000002BFD10009FFFF3DFFCFFFDEFF3000000000
+0000000000000FFFFD100DFD3749FFFFFFFFFF0000000000
+0000000000000BFFFFC59FF5DC8EFFFFFFFFFF9BE3000000
+00000000000006FFFFFFFFC4FFFFFF72016EFFFFF9000000
+00000000000001FFFFFFFFF78FFFF3000001DFFFD1000000
+00000000200000EFFFFFFFFD2DFF600000002FFF30000000
+00000001FFB73AFFFFFFFE36AFFF000000000CFFC6100000
+0000000AFFFFFFFFFFFFFD6FFFFD0000000009FFFFB00000
+0000002FFFFFFFFFFFFD504EFFFE000000000AFFFF900000
+00000009FFFFFFFFFF7000002FFF300000000EFF60000000
+000000009FFFFFFFF50000001EFFB00000007FFF40000000
+0000000009FFFFFF80000001DFFFFA000006FFFFF5000000
+0000000003FFFFFD00000003FFFFFFE978DFFFFFF8000000
+0000000009FFFFF700000000640BFFFFFFFFFF1381000000
+0000037CFFFFFFF200000000000CFFFFFFFFFF3C83000000
+00001FFFFFFFFFF000000000001FFC4EFF68FF7CFFA00000
+00001FFFFFFFFFD0000000000005B10AFE57893CFFB00000
+00001FFFFFFFFFE00000000000000005D99F78FFFFB00000
+000009DFFFFFFFF1000000000000000036DFFFFFFD600000
+000000015CFFFFF50000000000000000DFFFFF8410000000
+0000000005FFFFFC0000000000000003FFFFFE0000000000
+0000000004FFFFFF500000000000000CFFFFFC0000000000
+000000003EFFFFFFE20000000000008FFFFFFFA000000000
+00000003FFFFFFFFFE300000000009FFFFFFFFFC00000000
+0000002FFFFFFFFFFFF910000004CFFFFFFFFFFFC0000000
+0000000DFFFFFFFFFFFFFC8779EFFFFFFFFFFFFF80000000
+00000005FFFC8DFFFFFFFFFFFFFFFFFFFFA8DFFE00000000
+00000000741002FFFFFFFFFFFFFFFFFFFC00027600000000
+00000000000001FFFFFFFFFFFFFFFFFFFD00000000000000
+00000000000005FFFFFFFFFFFFFFFFFFFF20000000000000
+0000000000000AFFFFFBFFFFFFFDBFFFFF70000000000000
+0000000000000FFFFF400FFFFF8009FFFFC0000000000000
+00000000000006EFF5000BFFFF4000AFFE50000000000000
+0000000000000019600008FFFF10000A8000000000000000
+0000000000000000000004FFFD0000000000000000000000
+00000000000000000000009AA60000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<FA5 WHMCS>> White
+sprite $comment_dots [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000012110000000000000000000000
+0000000000000000169CEFFFFFFDB8400000000000000000
+000000000000016CFFFFFFFFFFFFFFFFA300000000000000
+0000000000018FFFFFFFFFFFFFFFFFFFFFC5000000000000
+00000000007FFFFFFFFFFFFFFFFFFFFFFFFFB20000000000
+000000001BFFFFFFFFFFFFFFFFFFFFFFFFFFFF6000000000
+00000002EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF900000000
+0000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA0000000
+000002EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9000000
+00000CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF500000
+00008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF10000
+0001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF90000
+0009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF1000
+000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7000
+004FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC000
+008FFFFFFFFFCDFFFFFFFFFCDFFFFFFFFECEFFFFFFFFF000
+00BFFFFFFFF3004FFFFFFD1006FFFFFFB0009FFFFFFFF300
+00CFFFFFFF700008FFFFF40000CFFFFF10000EFFFFFFF400
+00DFFFFFFF500006FFFFF100009FFFFE00000CFFFFFFF500
+00CFFFFFFF80000AFFFFF50000DFFFFF20001FFFFFFFF400
+00AFFFFFFFF6007FFFFFFE4009FFFFFFC201BFFFFFFFF300
+007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000
+003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB000
+000EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6000
+0007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000
+0000EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF80000
+00005FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD00000
+00000AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF300000
+000000CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6000000
+0000002FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF70000000
+0000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF600000000
+000000CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE3000000000
+000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF800000000000
+00000CFFFFFFFFFFFFFFFFFFFFFFFFFFFF92000000000000
+00006FFFFFFFFF89EFFFFFFFFFFFFFFC7100000000000000
+0002EFFFFFFFC3000269BDEEEECA84100000000000000000
+000CFFFFFFD5000000000000000000000000000000000000
+009FFFFFB500000000000000000000000000000000000000
+007986400000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<FA5 COMMENT_DOTS>> White
+sprite $gitter [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000DDDD20000000000000000000000000000000000
+000000000FFFF30000000000000000000000000000000000
+000000000FFFF30000000000000000000000000000000000
+000000000FFFF30000000000000000000000000000000000
+000000000FFFF30000000000000000000000000000000000
+000000000FFFF30000000000000000000000000000000000
+000000000FFFF30003666400006666100036664000000000
+000000000FFFF30008FFFB0001FFFF30009FFFA000000000
+000000000FFFF30008FFFB0001FFFF30009FFFA000000000
+000000000FFFF30008FFFB0001FFFF30009FFFA000000000
+000000000FFFF30008FFFB0001FFFF30009FFFA000000000
+000000000FFFF30008FFFB0001FFFF30009FFFA000000000
+000000000FFFF30008FFFB0001FFFF30009FFFA000000000
+000000000FFFF30008FFFB0001FFFF30009FFFA000000000
+000000000FFFF30008FFFB0001FFFF30009FFFA000000000
+000000000FFFF30008FFFB0001FFFF30009FFFA000000000
+000000000FFFF30008FFFB0001FFFF30009FFFA000000000
+000000000FFFF30008FFFB0001FFFF30009FFFA000000000
+000000000FFFF30008FFFB0001FFFF30009FFFA000000000
+000000000FFFF30008FFFB0001FFFF30009FFFA000000000
+000000000FFFF30008FFFB0001FFFF30009FFFA000000000
+000000000FFFF30008FFFB0001FFFF30009FFFA000000000
+000000000FFFF30008FFFB0001FFFF30009FFFA000000000
+000000000FFFF30008FFFB0001FFFF30009FFFA000000000
+000000000FFFF30008FFFB0001FFFF30009FFFA000000000
+000000000FFFF30008FFFB0001FFFF30009FFFA000000000
+000000000FFFF30008FFFB0001FFFF30009FFFA000000000
+000000000666610008FFFB0001FFFF300036664000000000
+000000000000000008FFFB0001FFFF300000000000000000
+000000000000000008FFFB0001FFFF300000000000000000
+000000000000000008FFFB0001FFFF300000000000000000
+000000000000000008FFFB0001FFFF300000000000000000
+000000000000000008FFFB0001FFFF300000000000000000
+000000000000000008FFFB0001FFFF300000000000000000
+000000000000000008FFFB0001FFFF300000000000000000
+000000000000000008FFFB0001FFFF300000000000000000
+000000000000000008FFFB0001FFFF300000000000000000
+000000000000000008FFFB0001FFFF300000000000000000
+000000000000000008FFFB0001FFFF300000000000000000
+000000000000000008FFFB0001FFFF300000000000000000
+000000000000000008FFFB0001FFFF300000000000000000
+000000000000000008FFFB0001FFFF300000000000000000
+000000000000000008FFFB0001FFFF300000000000000000
+000000000000000003555400005555100000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<FA5 GITTER>> White
+sprite $travis [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000004EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEA000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000
+000009FFFFFFDDDDDDDDDDDDDDDDDDDDDDDDDDEFFFFFF000
+000009FFFFFC000000000000000000000000006FFFFFF000
+000009FFFFFC003333333333333333333333206FFFFFF000
+000009FFFFFC04FFFFFFFFFFFFFFFFFFFFFFA06FFFFFF000
+000009FFFFFC04FFFFFFFFFFFFFFFFFFFFFFA06FFFFFF000
+000009FFFFFC04FFFFFFFFFFFFFDCCCCCDFFA06FFFFFF000
+000009FFFFFC04FFF211111CFFF2000004FFA06FFFFFF000
+000009FFFFFC04FFF100000CFFF2045404FFA06FFFFFF000
+000009FFFFFC02AAA00FF50CFFF20EFC03AA706FFFFFF000
+000009FFFFFC0000000FF50CFFF20EFC0000006FFFFFF000
+000009FFFFFE6666666FF50CFFF20EFD666666AFFFFFF000
+000009FFFFFFFFFFFFFFF50CFFF20EFFFFFFFFFFFFFFF000
+000009FFFFFFFFFFFFFFF50CFFF20EFFFFFFFFFFFFFFF000
+000009FFFFFFFFFFFFFFF50CFFF20EFFFFFFFFFFFFFFF000
+000009FFFFFFFFFFFFFFF50CFFF20EFFFFFFFFFFFFFFF000
+000009FFFFFFFFFFFFFFF50CFFF20EFFFFFFFFFFFFFFF000
+000009FFFFFFFFFFFFFFF50CFFF20EFFFFFFFFFFFFFFF000
+000009FFFFFFFFFFFFFFF50CFFF20EFFFFFFFFFFFFFFF000
+000009FFFFFFFFFFFFFFF50CFFF20EFFFFFFFFFFFFFFF000
+000009FFFFFFFFFFFFFFF50CFFF20EFFFFFFFFFFFFFFF000
+000009FFFFFFFFFFFFFFF50CFFF20EFFFFFFFFFFFFFFF000
+000009FFFFFFFFFFFFFFF50CFFF20EFFFFFFFFFFFFFFF000
+000009FFFFFFFFFFFFFFF50CFFF20EFFFFFFFFFFFFFFF000
+000009FFFFFFFFFFFFFCC40CFFF20677FFFFFFFFFFFFF000
+000009FFFFFFFFFFFFF0000CFFF20000FFFFFFFFFFFFF000
+000009FFFFFFFFFFFFF0044DFFFBAA00FFFFFFFFFFFFF000
+000009FFFFFFFFFFFFF01FFFFFFFFF00FFFFFFFFFFFFF000
+000009FFFFFFFFFFFFF01FFFFFFFFF00FFFFFFFFFFFFF000
+000009FFFFFFFFFFFFF01FFFFFFFFF00FFFFFFFFFFFFF000
+000009FFFFFFFFFFFFF0022222222200FFFFFFFFFFFFF000
+000009FFFFFFFFFFFFF0000000000000FFFFFFFFFFFFF000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000
+000001999999999999999999999999999999999999995000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+skinparam folderBackgroundColor<<DEV TRAVIS>> White
+
+node "<color:black><$home></color>\r [[https://www.freecadweb.org Website]]" as website <<FA5 HOME>> #White
+node "<color:black><$wikipedia_w></color>\r [[https://wiki.freecadweb.org Wiki]]" as wiki <<FA5 WIKIPEDIA_W>> #White
+node "<color:black><$comments></color>\r [[https://forum.freecadweb.org Forum]]" as forum <<FA5 COMMENTS>> #White
+node "dev tools" {
+node "<color:black><$bug></color>\r [[https://tracker.freecadweb.org Bugtracker]]" as bugtracker <<FA5 BUG>> #White
+node "<color:black><$github></color>\r [[https://github.com/freecad Github]]" as github <<FA5 GITHUB>> #White
+node "<color:black><$gitlab></color>\r [[https://gitlab.com/freecad Gitlab]]" as gitlab <<FA5 GITLAB>> #White
+node "<color:black><$code></color>\r [[https://sourceforge.net/projects/free-cad/ Sourceforge]]" as sourceforge <<FA5 CODE>> #White
+node "<color:black><$travis></color>\r [[https://travis-ci.org/FreeCAD/FreeCAD/branches Travis CI]]" as travis <<DEV TRAVIS>> #White
+}
+node "live chats" {
+node "<color:black><$comment_dots></color>\r [[irc://irc.freenode.net/freecad IRC]]" as irc <<FA5 COMMENT_DOTS>> #White
+node "<color:black><$gitter></color>\r [[https://gitter.im/FreeCAD/FreeCAD Gitter]]" as gitter <<FA5 GITTER>> #White
+}
+
+node "<color:black><$whmcs></color>\r [[https://github.com/FreeCAD/FreeCAD/releases FreeCAD]]" as freecad <<FA5 WHMCS>> #Red
+
+usecase "implementation idea"
+usecase "feature implementation"
+usecase "pull request"
+usecase problem
+usecase release
+
+freecad  - -|> problem
+problem  - -|> wiki #Black: research
+problem  - -|> forum #Black: research
+problem  - -|> "live chats" #Black: research
+problem - -|> bugtracker: is bug
+bugtracker - -|> "implementation idea" #Green: solve bug
+problem - -|> "implementation idea" #Green: problem is not a bug
+
+sourceforge - -> github: moved to
+github - -> gitlab: mirror
+
+"implementation idea" <|- -|> forum #Green: propose, discuss & improve idea
+forum <|- -|> "feature implementation" #Green: discuss
+"implementation idea" - -|> "feature implementation" #Green: accepted in forum
+"feature implementation" - -|> "pull request" #Green: open
+"pull request" - -|> github #Green: merge
+"pull request" - -> travis #Green: trigger tests
+
+release - -|> release: new every 3 - 6 months
+release - -|> github: branch
+release - -|> travis: [[https://github.com/FreeCAD/FreeCAD-AppImage build]]
+
+gitter - -> irc: mirrors
+gitter <- - irc: mirrors
+@enduml
+
+PlantUML version 1.2020.10(Sun May 17 09:35:57 UTC 2020)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 14.0.1+7
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
